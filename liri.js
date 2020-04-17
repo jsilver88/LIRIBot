@@ -55,7 +55,7 @@ function getSongs(songName) {
             return console.log("Error: " + err);
         }
     
-        console.log("Artists:", data.tracks.items[0].album.artists[0].name);
+        console.log("Artist:", data.tracks.items[0].album.artists[0].name);
         console.log("Link: ", data.tracks.items[0].external_urls);
         console.log("Album:", data.tracks.items[0].album.name);
     })
