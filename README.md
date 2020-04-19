@@ -85,8 +85,8 @@ NPM packages used:
 
 ## Demo
 
-![](../LIRIBot/demo/spotify.gif)
-![](../LIRIBot/demo/movie.gif)
-![](../LIRIBot/demo/dowhatitsays.gif)
+![Spotify-this](../LIRIBot/demo/spotify.gif)
+![movie-this](../LIRIBot/demo/movie.gif)
+![do-what-it-says](../LIRIBot/demo/dowhatitsays.gif)
 
 
