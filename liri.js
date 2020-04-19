@@ -13,7 +13,7 @@ var fs = require("fs");
 var defaultMovie = "Mr. Nobody";
 
 var action = process.argv[2];
-var value = process.argv[3];
+var value = process.argv.slice(3).join(" ");
 
 switch (action) {
     case "concert-this":
